@@ -1,1 +1,16 @@
 Day 2: Real-world data are not simple integers and float; Hence we need to do some pre-processing and Feature Engineering! 
+
+
+
+Day 2 of #10daysofMLChallenge. For this task I have done 
+part1) Exploratory data analysis with some visulisation.
+part2) Clean the data by dealing with categorical variables and missing values.
+part 3)Train model (Logistic regression) and use the model to predict whether passenger on Titanic Survived or not.
+
+Got model accuracy of 82.32%
+
+
+
+Task completed
+#tfugmumbai 
+@tfugmumba #covid19 #stayHomestaySafe
