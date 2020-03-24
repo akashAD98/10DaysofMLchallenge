@@ -1,5 +1,5 @@
 # 10DaysofMLchallenge
-Tensorflow Mumbai organised 10 DAYS ML challenge. 
+Tensorflow Mumbai organised 10 DAYS MLchallenge. 
 
 task1)
 Problem Statement
